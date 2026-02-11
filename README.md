@@ -1,2 +1,3 @@
-# tnap-alpl-ukb
-Scripts accompanying Hussain et al (2026); Nature
+# Glycerol allosterically activates TNAP in adipocyte thermogenesis and osteoblast mineralization
+
+This repository contains code associated with the study Hussain et al "Glycerol allosterically activates TNAP in adipocyte thermogenesis and osteoblast mineralization" (2026) Nature (DOI pending). The provided scripts were used to run the analyses of whole exome sequencing data in UK Biobank included in this manuscript. This code is to run gene burden analyses via Regenie using the Swiss Army Knife tool on the UK Biobank RAP platform. These scripts were written to submit these analyses via our institutional HPC system. This script is not designed to work out of the box, but rather illustrate the main steps done for each of the analyses performed in UK Biobank included in this manuscript.
